@@ -4,7 +4,7 @@ import { Menubar } from 'primereact/menubar';
 export default function Navbar() {
     const items = [
         {
-            label: 'Home',
+            label: 'Home V2',
             icon: 'pi pi-home',
             command: () => { window.location = '/'; }
         },
